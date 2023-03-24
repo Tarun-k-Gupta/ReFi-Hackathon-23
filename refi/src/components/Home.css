@@ -1,0 +1,18 @@
+.carbox{
+    padding-left: 4cm;
+    padding-top: 1cm;
+    padding-right: 4cm;
+    padding-bottom: 1cm;
+}
+
+.carousel-inner{
+    max-height: 10cm;
+}
+.carousel-item{
+    max-height: 10cm;
+}
+
+.carousel-caption
+{
+    color: black;
+}
