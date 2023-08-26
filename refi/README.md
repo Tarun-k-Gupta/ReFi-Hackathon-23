@@ -1,3 +1,4 @@
+# Smart contract deployed on Neo EVM - 0xa0004bA3121784b14acB9CF6C19C09ead08975ED
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
